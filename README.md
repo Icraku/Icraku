@@ -7,3 +7,7 @@
 - 📫 Find me on LinkedIn at https://www.linkedin.com/in/ivy-kutswa-7b0768219
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact about me: I love reading, a lot.🙃
+
+- 
+![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Icraku&theme=radical)
+
