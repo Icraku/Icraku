@@ -1,4 +1,4 @@
-### Hi there and welcome! I am Ivy Kutswa 👋🏽
+### Hi, I am Ivy Kutswa 👋🏽
 
 - 🔭 I’m currently working on a management system.
 - 🌱 I’m currently learning software engineering and I'm loving it!
@@ -8,6 +8,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact about me: I love reading, a lot.🙃
 
-- 
+
 ![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Icraku&theme=radical)
 
