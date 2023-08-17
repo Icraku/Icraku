@@ -2,7 +2,7 @@
 #### Data Scientist and a Software Engineering student.
 ![Data Scientist and a Software Engineering student.](https://pbs.twimg.com/profile_banners/1539904262699900928/1692280251/1500x500)
 
-I help companies utilize data when creating solutions.
+
 
 Skills: PYTHON / SQL / JS / HTML / CSS
 
