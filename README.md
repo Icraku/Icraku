@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ivy Kutswa
 #### Data Scientist and a Software Engineering student.
 <!--![Data Scientist and a Software Engineering student.](https://pbs.twimg.com/profile_banners/1539904262699900928/1692280251/1500x500) -->
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1539904262699900928/1692284522/600x200)
+(https://pbs.twimg.com/profile_banners/1539904262699900928/1692284522/600x200)
 
 
 
